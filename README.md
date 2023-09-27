@@ -38,5 +38,17 @@ https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view
 
 
 Project Description:
+When launched the application will open to a form that will allow the user to choose between 3 options.
+When the user chooses the numbering option, they will be asked to enter values, from randomly genereated values, that will be added to a list box that will check 
+if the values are sorted in ascending order.
+If they are, a user will win a point.
+If they aren't a user will lose a point.
+
+<img width="738" alt="Form 1" src="https://github.com/VCDBN/prog7312-part-1-talia0404/assets/101722499/bbb10e97-bbc6-483b-a56f-4e056a156cba">
+<img width="872" alt="Form 2" src="https://github.com/VCDBN/prog7312-part-1-talia0404/assets/101722499/68dde891-20db-4968-b472-3968bae85f99">
+<img width="863" alt="point" src="https://github.com/VCDBN/prog7312-part-1-talia0404/assets/101722499/ae4701e6-9fef-45d7-b3f5-7de84c0c04c4">
+
+
+
 
 
